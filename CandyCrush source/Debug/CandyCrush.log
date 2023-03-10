@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\mehak\source\repos\candycrush\candycrush\source.cpp(46): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\mehak\source\repos\candycrush\candycrush\source.cpp(47): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\mehak\source\repos\candycrush\candycrush\source.cpp(64): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\mehak\source\repos\candycrush\candycrush\source.cpp(65): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\mehak\source\repos\candycrush\candycrush\source.cpp(119): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  CandyCrush.vcxproj -> C:\Users\mehak\source\repos\CandyCrush\Debug\CandyCrush.exe
